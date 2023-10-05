@@ -9,7 +9,7 @@ public class SpikeDMG : MonoBehaviour
     {
         if (collision.CompareTag("Player"))
         {
-            SceneManager.LoadScene("SampleScene");
+            SceneManager.LoadScene("dudu");
         }
     }
 }
